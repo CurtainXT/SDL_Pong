@@ -1,0 +1,2 @@
+# SDL_Pong
+SDL_Pong是一个使用SDL图形库编写的Pong游戏复刻程序
